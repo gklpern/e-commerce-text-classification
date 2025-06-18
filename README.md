@@ -1,7 +1,7 @@
 
 <h2 align="center"><span style="font-family: Babas; font-size: 2em;">E-commerce Text Classification</span></h2>
 <h4 align="center"><span style="font-family: Babas; font-size: 1.5em; font-style: italic">Extended with Sentence-BERT, LoRA, and LSTM Experiments</span></h4>
-<h4 align="center"><span style="font-family: Babas; font-size: 1.5em;">Originally by Sugata Ghosh · Extended by [Your Name]</span></h4>
+<h4 align="center"><span style="font-family: Babas; font-size: 1.5em;">Originally by Sugata Ghosh · Extended by Gökalp Eren Akol</span></h4>
 
 ---
 
