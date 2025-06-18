@@ -45,6 +45,9 @@ Baseline GitHub Repository: [https://github.com/sugatagh](https://github.com/sug
 ---
 
 ### Additional Contributions 
+![image](https://github.com/user-attachments/assets/3e15b8fa-7d78-41a4-8209-1970641203f9)
+
+
 ![image](https://github.com/user-attachments/assets/5677b3f1-29ba-4b05-afbf-7575322a7b45)
 
 #### 1. **Sentence-BERT Embeddings + ML**
