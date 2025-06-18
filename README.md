@@ -20,6 +20,11 @@ This extended version builds upon that work by integrating **Sentence-BERT embed
 
 ---
 
+Data Sources:
+
+Word2Vec: https://www.kaggle.com/code/sugataghosh/e-commerce-text-classification-tf-idf-word2vec?select=GoogleNews-vectors-negative300.bin
+E-commerce Dataset: https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification/data
+
 ### 🔍 Original Contributions by Sugata Ghosh
 
 - Exploratory data analysis on character/word counts
