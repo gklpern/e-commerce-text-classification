@@ -26,10 +26,9 @@ Word2Vec: https://www.kaggle.com/code/sugataghosh/e-commerce-text-classification
 
 E-commerce Dataset: https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification/data
 
-### 🔍 Original Contributions by Sugata Ghosh
+###  Baseline Contributions by Sugata Ghosh
 
 - Exploratory data analysis on character/word counts
-![image](https://github.com/user-attachments/assets/5677b3f1-29ba-4b05-afbf-7575322a7b45)
 
   ![image](https://github.com/user-attachments/assets/165b4d9a-74de-4a48-a899-6054947352c4)
 
@@ -46,6 +45,7 @@ Baseline GitHub Repository: [https://github.com/sugatagh](https://github.com/sug
 ---
 
 ### Additional Contributions 
+![image](https://github.com/user-attachments/assets/5677b3f1-29ba-4b05-afbf-7575322a7b45)
 
 #### 1. **Sentence-BERT Embeddings + ML**
 
