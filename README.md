@@ -36,7 +36,8 @@ E-commerce Dataset: https://www.kaggle.com/datasets/saurabhshahane/ecommerce-tex
 - Classical ML classification (SVM, etc.)
 - Word2Vec embeddings with XGBoost
 
-  ![image](https://github.com/user-attachments/assets/3e28f747-f874-4362-81d1-848dda6d63c6)
+  ![image](https://github.com/user-attachments/assets/964d68e1-588f-48ff-90d1-68823029ffeb)
+
 
 - Achieved ~94.8% test accuracy
 
